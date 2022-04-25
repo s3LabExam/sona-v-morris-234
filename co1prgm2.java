@@ -1,4 +1,4 @@
-//Read 2 matrices from the console and perform matrix addition. 
+//Read 2 matrices from the console and  perform matrix addition. 
 package sona;
 import java.util.*;
 public class matrix {
