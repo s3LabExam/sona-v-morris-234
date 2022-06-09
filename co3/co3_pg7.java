@@ -41,10 +41,10 @@ import java.util.Date;
 			Scanner s=new Scanner(System.in);
 			int ch=1;
 			int n=5,i=0,net=0;
-			qs7 newbill[]=new qs7[n];
+			co3_pg7 newbill[]=new co3_pg7[n];
 			while(ch==1 && i<n ){
 				System.out.println("Ttem "+(i+1));
-				newbill[i]=new qs7();
+				newbill[i]=new co3_pg7();
 				if(i==0){	
 					newbill[i].forHeader();
 				}
